@@ -35,4 +35,4 @@ streamlit run app.py
 ```
 This will start a local server and open the application in your default web browser. Visit `http://localhost:8501` to view the application.
 
-![Face Detection Example](./assets/images/screenshot.png)
+![Face Detection Example](./assets/img/screenshot.png)

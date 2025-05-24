@@ -24,12 +24,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Video & image outputs (nếu bạn ghi lại video từ webcam)
-*.avi
-*.mp4
-*.jpg
-*.png
-
 # Python environment & dependency files
 Pipfile.lock
 poetry.lock
