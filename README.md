@@ -17,7 +17,12 @@ This project demonstrates how to create a real-time face detection application u
 - OpenCV
 
 ## Installation
-1. Create a virtual environment (optional but recommended):
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TienNHM/face-detection-realtime.git
+   ```
+
+2. Create a virtual environment (optional but recommended):
     - On Windows:
     ```bash
     python -m venv venv
@@ -30,7 +35,7 @@ This project demonstrates how to create a real-time face detection application u
     source venv/bin/activate
     ```
 
-2. Install the required packages:
+3. Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
