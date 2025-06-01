@@ -2,6 +2,8 @@
 
 This project demonstrates how to create a real-time face detection application using MediaPipe and Streamlit. The application captures video from the webcam, detects faces, and displays the results in real-time.
 
+## Live Demo
+You can try the live demo of the application at: https://tiennhm-face-detection-realtime.streamlit.app/
 
 ## Features
 - Real-time face detection using webcam input.
